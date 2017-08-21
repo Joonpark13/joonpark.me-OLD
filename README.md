@@ -1,6 +1,6 @@
 # This is the OLD version of the site.
 ## This old version of the site can be found at [http://joonpark.me-old.s3-website-us-east-1.amazonaws.com/](http://joonpark.me-old.s3-website-us-east-1.amazonaws.com/)
-## The current version can be found at [https://github.com/Joonpark13/portfolio](https://github.com/Joonpark13/joonpark13.github.io)
+## The current version can be found at [https://github.com/Joonpark13/portfolio](https://github.com/Joonpark13/portfolio)
 
 # JoonPark.me
 
